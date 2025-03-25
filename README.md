@@ -2,7 +2,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differncing,seasonal adjustment and log transformation on yahoo stock dataset.
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
@@ -63,12 +63,15 @@ REGULAR DIFFERENCING:
 
 
 SEASONAL ADJUSTMENT:
-![image](https://github.com/user-attachments/assets/0665b09f-c83b-42a4-b7e3-7349faee21d1)
+![image](https://github.com/user-attachments/assets/5d461357-c1eb-4913-8a33-e82be3815951)
+
+
+
 
 
 
 LOG TRANSFORMATION:
-![image](https://github.com/user-attachments/assets/85c9a6fa-e266-4d17-a2e9-10ecda959e62)
+![image](https://github.com/user-attachments/assets/22ab747c-b4a3-4c25-a135-203c4ed02ab2)
 
 
 
